@@ -20,7 +20,7 @@
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59034.sql) | SELECT |
-[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59415.sql) | SUM, MAX, MIN |
+[최댓값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59415) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59415.sql) | SUM, MAX, MIN |
 [역순 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59035) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59035.sql)  | SELECT |
 [아픈 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59036) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59036.sql) | SELECT |
 [어린 동물 찾기](https://programmers.co.kr/learn/courses/30/lessons/59037) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59037.sql) | SELECT |
@@ -32,11 +32,11 @@
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59040.sql) | GROUP BY |
-[최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)| [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59038.sql) | SUM, MAX, MIN |
+[최솟값 구하기](https://programmers.co.kr/learn/courses/30/lessons/59038)| [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59038.sql) | SUM, MAX, MIN |
 [동명 동물 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/59041) |[sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59041.sql) | GROUP BY |
-[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59406.sql) | SUM, MAX, MIN |
+[동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59406.sql) | SUM, MAX, MIN |
 [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) |[sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59412.sql) | GROUP BY |
-[중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59408.sql) | SUM, MAX, MIN |
+[중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59408.sql) | SUM, MAX, MIN |
 
 ### LEVEL 4
 | 문제 | 코드 | 구분 |
