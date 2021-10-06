@@ -18,8 +18,8 @@
 ### 이코테
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
-음료수얼려먹기 | [py]() | DFS, BFS |
-미로탈출 | [py]() | DFS, BFS |
+음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
+미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
 
 ## SQL
 ### LEVEL 1
