@@ -39,6 +39,8 @@
 [동물의 아이디와 이름](https://programmers.co.kr/learn/courses/30/lessons/59403) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59403.sql) | SELECT |
 [여러 기준으로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/59404) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59404.sql) | SELECT |
 [상위 n개 레코드](https://programmers.co.kr/learn/courses/30/lessons/59405) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59405.sql) | SELECT |
+[이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039) | [sql]()| IS NULL |
+[이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407) | [sql]()| IS NULL |
 
 ### LEVEL 2
 | 문제 | 코드 | 구분 |
@@ -49,6 +51,7 @@
 [동물 수 구하기](https://programmers.co.kr/learn/courses/30/lessons/59406) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59406.sql) | SUM, MAX, MIN |
 [입양 시각 구하기(1)](https://programmers.co.kr/learn/courses/30/lessons/59412) |[sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59412.sql) | GROUP BY |
 [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59408.sql) | SUM, MAX, MIN |
+[NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410) | [sql]()| IS NULL |
 
 ### LEVEL 4
 | 문제 | 코드 | 구분 |
