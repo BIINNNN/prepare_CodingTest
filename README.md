@@ -14,6 +14,8 @@
 |:---:|:---:|:---:|
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 |
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 |
+[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py]() | DFS, BFS |
+[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py]() | DFS, BFS |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
