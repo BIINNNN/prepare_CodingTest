@@ -13,13 +13,13 @@
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 |
-[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py]() | 완전탐색 |
+[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
-음료수얼려먹기 | [py]() | DFS, BFS |
-미로탈출 | [py]() | DFS, BFS |
+음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
+미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
 
 ## SQL
 ### LEVEL 1
