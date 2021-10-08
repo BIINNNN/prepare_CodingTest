@@ -25,7 +25,7 @@ def solution(tickets):
             routes[top] = routes[top][:-1]
 
  
-    answer = path[::-1] #완성된 경로는 도착지부터 쌓여있으니 뒤집어 출력
+    answer = list(reversed(path)) #완성된 경로는 도착지부터 쌓여있으니 뒤집어 출력
     return answer
 
 result = solution(tickets)
