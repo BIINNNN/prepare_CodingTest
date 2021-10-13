@@ -4,19 +4,19 @@
 > [프로그래머스](https://programmers.co.k),['이것이 취업을 위한 코딩 테스트다 with Python(나동빈 저, 한빛미디어)'](https://github.com/ndb796/python-for-coding-test), [백준 온라인 저지(BOJ)](https://www.acmicpc.net), SW Expert Academy의 문제를 활용하고, 풀이합니다. 
 
 ## Algorithm
-### Programmers LEVEL 1
+### Programmers Level 1
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42840.py) | 완전탐색 |
 
-### Programmers LEVEL 2
+### Programmers Level 2
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 |
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 |
 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43165.py) | DFS, BFS |
 
-### Programmers LEVEL 3
+### Programmers Level 3
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43162.py) | DFS, BFS |
@@ -35,7 +35,7 @@
 |:---:|:---:|:---:|
 
 ## SQL
-### Programmers LEVEL 1
+### Programmers Level 1
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [모든 레코드 조회하기](https://programmers.co.kr/learn/courses/30/lessons/59034) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/select/59034.sql) | SELECT |
@@ -49,7 +49,7 @@
 [이름이 없는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59039) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/is%20null/59039.sql)| IS NULL |
 [이름이 있는 동물의 아이디](https://programmers.co.kr/learn/courses/30/lessons/59407) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/is%20null/59407.sql)| IS NULL |
 
-### Programmers LEVEL 2
+### Programmers Level 2
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [고양이와 개는 몇 마리 있을까](https://programmers.co.kr/learn/courses/30/lessons/59040) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59040.sql) | GROUP BY |
@@ -60,7 +60,7 @@
 [중복 제거하기](https://programmers.co.kr/learn/courses/30/lessons/59408) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/sum%2Cmax%2Cmin/59408.sql) | SUM, MAX, MIN |
 [NULL 처리하기](https://programmers.co.kr/learn/courses/30/lessons/59410) | [sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/is%20null/59410.sql)| IS NULL |
 
-### Programmers LEVEL 4
+### Programmers Level 4
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [입양 시각 구하기(2)](https://programmers.co.kr/learn/courses/30/lessons/59413) |[sql](https://github.com/BIINNNN/prepare_CodingTest/blob/main/SQL/group%20by/59413.sql) | GROUP BY |
