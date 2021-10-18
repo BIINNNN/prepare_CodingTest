@@ -1,7 +1,7 @@
 # 🔥코딩테스트 연습문제 문제풀이🔥
 > 코딩테스트 연습을 위한 문제풀이를 진행하고 소스코드를 업로드 하는 저장소입니다.
 > 
-> [프로그래머스](https://programmers.co.k),['이것이 취업을 위한 코딩 테스트다 with Python(나동빈 저, 한빛미디어)'](https://github.com/ndb796/python-for-coding-test), [백준 온라인 저지(BOJ)](https://www.acmicpc.net), [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 활용하고, 풀이합니다. 
+> [프로그래머스](https://programmers.co.k), ['이것이 취업을 위한 코딩 테스트다 with Python(나동빈 저, 한빛미디어)'](https://github.com/ndb796/python-for-coding-test), [백준 온라인 저지(BOJ)](https://www.acmicpc.net), [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 활용하고, 풀이합니다. 
 
 ## Algorithm
 ### Programmers Level 1
