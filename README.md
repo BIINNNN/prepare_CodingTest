@@ -31,29 +31,29 @@
 
 
 ### SWEA
-| 문제 | 코드 | 난이도 | 구분
-|:---:|:---:|:---:|
-min-max | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4828.py) | D2
-전기버스 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4831.py) | D3
-숫자 카드 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4834.py] | D2
-구간합 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4835.py] | D2
-색칠하기 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4836.py] | D2
-부분집합의 합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4837.py] |  D3
-이진탐색 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4839.py] |  D2
-특별한 정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4843.py] | D3
-문자열 비교 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4864.py] | D2
-회문 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4861.py] | D2
-글자수 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4865.py] | D2
-종이붙이기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4869.py] | D2
-괄호검사 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4866.py] | D2
-그래프 경로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4871.py] | D2
-반복문자 지우기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4873.py] | D2
-최소합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5188.py] | D3
-전자카트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5189.py] | D2
-회전 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5097.py] | D2
-미로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4875.py] | D2
-미로의 거리 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5105.py] | D3
-피자 굽기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5099.py] | D3
+| 문제 | 코드 | 난이도 | 구분 |
+|:---:|:---:|:---:|:---:|
+min-max | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4828.py) | D2 |
+전기버스 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4831.py) | D3 |
+숫자 카드 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4834.py) | D2 |
+구간합 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4835.py) | D2 |
+색칠하기 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4836.py) | D2 |
+부분집합의 합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4837.py) | D3 |
+이진탐색 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4839.py) | D2 |
+특별한 정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4843.py) | D3 |
+문자열 비교 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4864.py) | D2 |
+회문 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4861.py) | D2 |
+글자수 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4865.py) | D2 |
+종이붙이기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4869.py) | D2 |
+괄호검사 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4866.py) | D2 |
+그래프 경로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4871.py) | D2 |
+반복문자 지우기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4873.py) | D2 |
+최소합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5188.py) | D3 |
+전자카트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5189.py) | D2 |
+회전 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5097.py) | D2 |
+미로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4875.py) | D2 |
+미로의 거리 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5105.py) | D3 |
+피자 굽기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5099.py) | D3 |
 
 ## SQL
 ### Programmers Level 1
