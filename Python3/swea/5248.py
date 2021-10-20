@@ -19,7 +19,7 @@ for test_case in range(1, T+1):
     #출석번호의 인덱스까지 부모리스트 만들고, 초기엔 부모를 자기 자신으로 정의
     parent = [i for i in range(N+1)]
 
-    for i in range(0, len(votes), 2): #두 개씩 잘라서 한 쌍마다 union
+    for i in range(0, M*2, 2): #두 개씩 잘라서 한 쌍마다 union
         union(votes[i], votes[i+1])
 
     result = set()
