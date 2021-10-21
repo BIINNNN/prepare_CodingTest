@@ -4,24 +4,16 @@
 > [프로그래머스](https://programmers.co.k), ['이것이 취업을 위한 코딩 테스트다 with Python(나동빈 저, 한빛미디어)'](https://github.com/ndb796/python-for-coding-test), [백준 온라인 저지(BOJ)](https://www.acmicpc.net), [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 활용하고, 풀이합니다. 
 
 ## Algorithm
-### Programmers Level 1
-| 문제 | 코드 | 구분 |
-|:---:|:---:|:---:|
-[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42840.py) | 완전탐색 |
-
-### Programmers Level 2
-| 문제 | 코드 | 구분 |
-|:---:|:---:|:---:|
-[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 |
-[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 |
-[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43165.py) | DFS, BFS |
-
-### Programmers Level 3
-| 문제 | 코드 | 구분 |
-|:---:|:---:|:---:|
-[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43162.py) | DFS, BFS |
-[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS |
-[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS |
+### Programmers
+| 문제 | 코드 | 구분 | 레벨 |
+|:---:|:---:|:---:|:---:|
+[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42840.py) | 완전탐색 | Level 1 |
+[소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 | Level 2 |
+[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 | Level 2 |
+[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43165.py) | DFS, BFS | Level 2 |
+[네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43162.py) | DFS, BFS | Level 3 |
+[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS | Level 3 |
+[여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS | Level 3 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
@@ -29,31 +21,37 @@
 음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
 
+### 백준(BOJ)
+| 문제 | 코드 | 구분 |
+|:---:|:---:|:---:|
+[구슬탈출 2](https://www.acmicpc.net/problem/13460) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/13460.py) | BFS |
+[뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py) | 구현
+[치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py) | 구현
 
 ### SWEA
-| 문제 | 코드 | 난이도 | 구분 |
+| 문제 | 코드 | 구분 | 난이도 |
 |:---:|:---:|:---:|:---:|
-min-max | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4828.py) | D2 |
-전기버스 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4831.py) | D3 |
-숫자 카드 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4834.py) | D2 |
-구간합 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4835.py) | D2 |
-색칠하기 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4836.py) | D2 |
-부분집합의 합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4837.py) | D3 |
-이진탐색 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4839.py) | D2 |
-특별한 정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4843.py) | D3 |
-문자열 비교 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4864.py) | D2 |
-회문 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4861.py) | D2 |
-글자수 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4865.py) | D2 |
-종이붙이기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4869.py) | D2 |
-괄호검사 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4866.py) | D2 |
-그래프 경로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4871.py) | D2 |
-반복문자 지우기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4873.py) | D2 |
-최소합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5188.py) | D3 |
-전자카트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5189.py) | D2 |
-회전 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5097.py) | D2 |
-미로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4875.py) | D2 |
-미로의 거리 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5105.py) | D3 |
-피자 굽기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5099.py) | D3 |
+min-max | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4828.py) | - | D2 |
+전기버스 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4831.py) | - | D3 |
+숫자 카드 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4834.py) | - | D2 |
+구간합 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4835.py) | - | D2 |
+색칠하기 |[py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4836.py) | - | D2 |
+부분집합의 합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4837.py) | - | D3 |
+이진탐색 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4839.py) | - | D2 |
+특별한 정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4843.py) | - | D3 |
+문자열 비교 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4864.py) | - | D2 |
+회문 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4861.py) | - | D2 |
+글자수 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4865.py) | - | D2 |
+종이붙이기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4869.py) | - | D2 |
+괄호검사 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4866.py) | - | D2 |
+그래프 경로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4871.py) | - | D2 |
+반복문자 지우기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4873.py) | - | D2 |
+최소합 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5188.py) | - | D3 |
+전자카트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5189.py) | - | D2 |
+회전 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5097.py) | - | D2 |
+미로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/4875.py) | - | D2 |
+미로의 거리 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5105.py) | - | D3 |
+피자 굽기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/swea/5099.py) | - | D3 |
 
 ## SQL
 ### Programmers Level 1
