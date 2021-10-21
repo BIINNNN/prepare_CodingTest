@@ -1,4 +1,4 @@
-#2048(easy) - 구현?(시뮬레이션)
+#뱀 - 구현시뮬레이션)
 n = int(input()) #보드의 크기
 k = int(input()) #사과의 개수
 board = [[0]*(n+1) for _ in range(n+1)] #보드 1~n까지
