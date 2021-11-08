@@ -8,9 +8,15 @@
 | 문제 | 코드 | 구분 | 레벨 |
 |:---:|:---:|:---:|:---:|
 [모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42840.py) | 완전탐색 | Level 1 |
+[K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/42748.py) | 정렬 | Level 1 |
+[완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42576.py) | 해시 | Level 1 |
 [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42839.py) | 완전탐색 | Level 2 |
 [카펫](https://programmers.co.kr/learn/courses/30/lessons/42842) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/42842.py) | 완전탐색 | Level 2 |
 [타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43165.py) | DFS, BFS | Level 2 |
+[가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/42746.py) | 정렬 | Level 2 |
+[H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/42747.py) | 정렬 | Level 2 |
+[전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42577.py) | 해시 | Level 2 |
+[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42578.py) | 해시 | Level 2 |
 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43162.py) | DFS, BFS | Level 3 |
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS | Level 3 |
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS | Level 3 |
@@ -27,6 +33,8 @@
 [구슬탈출 2](https://www.acmicpc.net/problem/13460) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/13460.py) | BFS |
 [뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py) | 구현
 [치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py) | 구현
+[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py) | DFS, 부르트포스
+[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1260.py) | DFS, BFS
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
