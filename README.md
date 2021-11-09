@@ -21,6 +21,8 @@
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS | Level 3 |
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS | Level 3 |
 [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42579.py) | 해시 | Level 3 |
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py) | 문자열, 구현 | Level 2 |
+[오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42888.py) | 문자열, 구현 | Level 2 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
