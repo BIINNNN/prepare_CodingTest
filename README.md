@@ -35,10 +35,13 @@
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 [구슬탈출 2](https://www.acmicpc.net/problem/13460) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/13460.py) | BFS |
-[뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py) | 구현
-[치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py) | 구현
-[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py) | DFS, 부르트포스
-[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1260.py) | DFS, BFS
+[뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py) | 구현 |
+[치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py) | 구현 |
+[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py) | DFS, 부르트포스 |
+[DFS와 BFS](https://www.acmicpc.net/problem/1260) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1260.py) | DFS, BFS |
+[소수 찾기](https://www.acmicpc.net/problem/1978) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1978.py) | 수학, 구현 |
+[에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2960.py) | 수학 |
+
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
