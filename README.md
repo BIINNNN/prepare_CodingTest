@@ -25,6 +25,9 @@
 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42888.py) | 문자열, 구현 | Level 2 |
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/62048.py) | 단순 아이디어, 수학 | Level 2 |
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py) | 문자열, 구현 | Level 2 |
+[더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42626.py) | 힙 | Level 2 |
+[124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12899.py) | 규칙 찾기 | Level 2 |
+
 ### 이코테
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
