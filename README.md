@@ -46,6 +46,8 @@
 [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1260.py) | DFS, BFS |
 [소수 찾기](https://www.acmicpc.net/problem/1978) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1978.py) | 수학, 구현 |
 [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2960.py) | 수학 |
+[터렛](https://www.acmicpc.net/problem/1002) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1002.py) | 수학 |
+[다리 놓기](https://www.acmicpc.net/problem/1010) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1010.py) | 수학, 조합, DP |
 
 
 ### SWEA
