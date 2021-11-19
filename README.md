@@ -35,6 +35,7 @@
 |:---:|:---:|:---:|
 음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
+[문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -50,6 +51,8 @@
 [다리 놓기](https://www.acmicpc.net/problem/1010) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1010.py) | 수학, 조합, DP |
 [약수](https://www.acmicpc.net/problem/1037) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1037.py) | 구현, 수학 |
 [요세수프 문제](https://www.acmicpc.net/problem/1158) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1158.py) | 스택, 수학 |
+[뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
+[ATM](https://www.acmicpc.net/problem/11399) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11399.py) | 그리디 |
 
 
 ### SWEA
