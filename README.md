@@ -29,6 +29,7 @@
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12899.py) | 규칙 찾기 | Level 2 |
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12973.py) | 스택 | Level 2 |
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/43238.py) | 이분탐색 | Level 3 |
+[조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42860.py) | 그리디 | Level 2 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
@@ -53,6 +54,7 @@
 [요세수프 문제](https://www.acmicpc.net/problem/1158) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1158.py) | 스택, 수학 |
 [뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 [ATM](https://www.acmicpc.net/problem/11399) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11399.py) | 그리디 |
+[동전 0](https://www.acmicpc.net/problem/11047) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11047.py) | 그리디 |
 
 
 ### SWEA
