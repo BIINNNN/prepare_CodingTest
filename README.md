@@ -30,6 +30,7 @@
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12973.py) | 스택 | Level 2 |
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/43238.py) | 이분탐색 | Level 3 |
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42860.py) | 그리디 | Level 2 |
+[다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
