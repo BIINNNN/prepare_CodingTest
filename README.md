@@ -56,6 +56,7 @@
 [뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 [ATM](https://www.acmicpc.net/problem/11399) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11399.py) | 그리디 |
 [동전 0](https://www.acmicpc.net/problem/11047) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11047.py) | 그리디 |
+[회의실 배정](https://www.acmicpc.net/problem/1931) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1931.py) | 그리디 |
 
 
 ### SWEA
