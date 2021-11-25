@@ -59,6 +59,8 @@
 [회의실 배정](https://www.acmicpc.net/problem/1931) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1931.py) | 그리디 |
 [보물](https://www.acmicpc.net/problem/1026) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1026.py) | 그리디 |
 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1541.py) | 그리디 |
+[로프](https://www.acmicpc.net/problem/2217) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2217.py) | 그리디 |
+[30](https://www.acmicpc.net/problem/10610) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/10610.py) | 그리디 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
