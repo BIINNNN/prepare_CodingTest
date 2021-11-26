@@ -61,6 +61,8 @@
 [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1541.py) | 그리디 |
 [로프](https://www.acmicpc.net/problem/2217) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2217.py) | 그리디 |
 [30](https://www.acmicpc.net/problem/10610) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/10610.py) | 그리디 |
+[수들의 합](https://www.acmicpc.net/problem/1789) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1789.py) | 그리디 |
+[캠핑](https://www.acmicpc.net/problem/4796) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4796.py) | 그리디 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
