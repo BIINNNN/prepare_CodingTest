@@ -63,7 +63,7 @@
 [30](https://www.acmicpc.net/problem/10610) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/10610.py) | 그리디 |
 [수들의 합](https://www.acmicpc.net/problem/1789) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1789.py) | 그리디 |
 [캠핑](https://www.acmicpc.net/problem/4796) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4796.py) | 그리디 |
-[셀프넘버](https://www.acmicpc.net/problem/4673) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4673.py) | 그리디 |
+[셀프넘버](https://www.acmicpc.net/problem/4673) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4673.py) | 구현 |
 [제로](https://www.acmicpc.net/problem/10773) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/10773.py) | 구현 |
 
 ### SWEA
