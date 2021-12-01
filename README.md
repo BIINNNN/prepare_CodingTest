@@ -67,6 +67,8 @@
 [제로](https://www.acmicpc.net/problem/10773) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/10773.py) | 구현 |
 [크로아티아 알파벳](https://www.acmicpc.net/problem/2941) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2941.py) | 구현 |
 [프린터 큐](https://www.acmicpc.net/problem/1966) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1966.py) | 구현 |
+[요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11866.py) | 구현 |
+[날짜 계산](https://www.acmicpc.net/problem/1476) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1476.py) | 구현 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
