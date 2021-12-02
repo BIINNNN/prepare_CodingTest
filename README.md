@@ -70,6 +70,7 @@
 [요세푸스 문제 0](https://www.acmicpc.net/problem/11866) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/11866.py) | 구현 |
 [날짜 계산](https://www.acmicpc.net/problem/1476) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1476.py) | 구현 |
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py) | BFS |
+[단어 수학](https://www.acmicpc.net/problem/1339) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1339.py) | 그리디 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
