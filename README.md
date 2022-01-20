@@ -3,7 +3,7 @@
 > 
 > [프로그래머스](https://programmers.co.k), ['이것이 취업을 위한 코딩 테스트다 with Python(나동빈 저, 한빛미디어)'](https://github.com/ndb796/python-for-coding-test), [백준 온라인 저지(BOJ)](https://www.acmicpc.net), [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 활용하고, 풀이합니다. 
 >
-> 인프런의 [파이썬 알고리즘 문제풀이 (코딩테스트 대비)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) 강의를 수강하며의 문제를 풀이하여 업로드합니다. (유료 강의이므로 문제를 따로 업로드 하지는 않습니다.)
+> 인프런의 [파이썬 알고리즘 문제풀이 (코딩테스트 대비)](https://www.inflearn.com/course/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-%EC%BD%94%EB%94%A9%ED%85%8C%EC%8A%A4%ED%8A%B8) 강의를 수강하며의 문제를 풀이하여 업로드합니다. (유료 강의이므로 문제를 따로 업로드 하지는 않으며, 작성한 코드만  위해 업로드합니다.)
  
 ## Algorithm
 ### Programmers
