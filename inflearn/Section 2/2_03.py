@@ -11,9 +11,8 @@ res = list(set()) #3개의 숫자 합을 저장할 리스트(k번째 수 찾기 
 # for i in range(n):
 #     for j in range(i+1, n):
 #         for m in range(j+1, n):
-#             res.add(a[i]+a[j]+a[m])
+#             res.append(a[i]+a[j]+a[m])
 
-# res = list(res) #set에는 sort기능이 없어서 리스트화 시켜줌
 # res.sort(reverse=True) #내림차순 정렬
 
 #Sol 2) combination 라이브러리 사용
