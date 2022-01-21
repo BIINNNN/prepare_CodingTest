@@ -5,7 +5,11 @@ sys.stdin = open("D:\input.txt","rt")
 
 n = int(input())
 scores = list(map(int, input().split()))
-avg = round(sum(scores)/len(scores)) # 평균 점수(반올림)
+avg = sum(scores)/n # 평균 점수
+#반올림
+avg += 0.5
+avg = int(avg)
+
 numMin = float('inf') #최소 점수 차이를 찾기 위해 초기엔 무한히 큰 수로 초기화
 
 for idx, x in enumerate(scores): #idx : 학생 번호
