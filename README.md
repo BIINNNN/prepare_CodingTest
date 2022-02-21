@@ -33,15 +33,21 @@
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/43238.py) | 이분탐색 | Level 3 |
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42860.py) | 그리디 | Level 2 |
 [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
+[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 |, Level 2 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
+큰 수의 법칙 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch03-1.py) | 그리디 |
+숫자 카드 게임 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch03-2.py) | 그리디 |
+1이 될 때까지 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch03-3.py) | 그리디 |
+곱하기 혹은 더하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-2.py) | 그리디 |
 음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
 [문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 위에서 아래로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-10.py) | 정렬 |
 성적이 낮은 순서로 학생 출력하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-11.py) | 정렬 |
+두 배열의 원소 교체 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-12.py) | 정렬
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -75,6 +81,10 @@
 [날짜 계산](https://www.acmicpc.net/problem/1476) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1476.py) | 구현 |
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py) | BFS |
 [단어 수학](https://www.acmicpc.net/problem/1339) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1339.py) | 그리디 |
+[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18310.py) | 그리디 |
+[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2609.py) | 수학 |
+[1](https://www.acmicpc.net/problem/4375) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4375.py) | 수학 |
+[약수의 합 2](https://www.acmicpc.net/problem/17427) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/17427.py) | 수학 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
