@@ -33,7 +33,7 @@
 [입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/43238.py) | 이분탐색 | Level 3 |
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42860.py) | 그리디 | Level 2 |
 [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
-[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 |, Level 2 |
+[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 | Level 2 |
 
 ### 이코테
 | 문제 | 코드 | 구분 |
@@ -85,6 +85,13 @@
 [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2609.py) | 수학 |
 [1](https://www.acmicpc.net/problem/4375) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4375.py) | 수학 |
 [약수의 합 2](https://www.acmicpc.net/problem/17427) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/17427.py) | 수학 |
+[소수 구하기](https://www.acmicpc.net/problem/1929) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1929.py) | 수학 |
+[골드바흐의 추측](https://www.acmicpc.net/problem/6588) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6588.py) | 수학 |
+[일곱 난쟁이](https://www.acmicpc.net/problem/2309) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2309.py) | 브루트 포스 |
+[사탕 게임](https://www.acmicpc.net/problem/3085) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3085.py) | 브루트 포스 |
+[1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/9095.py) | 브루트 포스 |
+[수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1748.py) | 브루트 포스 |
+[카잉 달력](https://www.acmicpc.net/problem/6064) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6064.py) | 브루트 포스 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
