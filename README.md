@@ -43,7 +43,7 @@
 1이 될 때까지 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch03-3.py) | 그리디 |
 모험가 길드 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-1.py) | 그리디 |
 곱하기 혹은 더하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-2.py) | 그리디 |
-[문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) / [py] (https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-3.py) | 그리디 |
+[문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) / [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-3.py)| 그리디 |
 만들 수 없는 금액 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-4.py) | 그리디 |
 음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-10.py) | DFS, BFS |
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
