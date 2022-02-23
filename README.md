@@ -35,7 +35,7 @@
 [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 | Level 2 |
 
-### 이코테
+### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
 |:---:|:---:|:---:|
 큰 수의 법칙 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch03-1.py) | 그리디 |
@@ -94,6 +94,7 @@
 [1, 2, 3 더하기](https://www.acmicpc.net/problem/9095) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/9095.py) | 브루트 포스 |
 [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1748.py) | 브루트 포스 |
 [카잉 달력](https://www.acmicpc.net/problem/6064) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6064.py) | 브루트 포스 |
+[문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
