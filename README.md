@@ -34,6 +34,7 @@
 [조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42860.py) | 그리디 | Level 2 |
 [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 | Level 2 |
+[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 | Level 4 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -50,8 +51,8 @@
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/5-11.py) | DFS, BFS |
 위에서 아래로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-10.py) | 정렬 |
 성적이 낮은 순서로 학생 출력하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-11.py) | 정렬 |
-두 배열의 원소 교체 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-12.py) | 정렬
-
+두 배열의 원소 교체 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-12.py) | 정렬 |
+[무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
