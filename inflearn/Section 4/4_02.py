@@ -1,6 +1,6 @@
 #랜선자르기(결정 알고리즘)
 import sys
-#sys.stdin = open("C:/Users/seobi/Desktop/input.txt","rt")
+sys.stdin = open("C:/Users/seobi/Desktop/input.txt","rt")
 
 k, n = map(int, input().split())
 line = []
