@@ -53,6 +53,9 @@
 성적이 낮은 순서로 학생 출력하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-11.py) | 정렬 |
 두 배열의 원소 교체 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-12.py) | 정렬 |
 [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 |
+상하좌우 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-1.py) | 구현 |
+시각 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-2.py) | 구현 |
+왕실의 나이트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-3.py) | 구현 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
