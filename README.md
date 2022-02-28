@@ -57,6 +57,7 @@
 시각 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-2.py) | 구현 |
 왕실의 나이트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-3.py) | 구현 |
 게임 개발 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-4.py) | 구현 |
+[럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -102,6 +103,7 @@
 [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1748.py) | 브루트 포스 |
 [카잉 달력](https://www.acmicpc.net/problem/6064) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6064.py) | 브루트 포스 |
 [문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
+[럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
