@@ -35,6 +35,7 @@
 [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42583.py) | 스택, 큐 | Level 2 |
 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 | Level 2 |
 [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 | Level 4 |
+[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 | Level 3 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -60,7 +61,7 @@
 [럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
 문자열 재정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-2.py) | 구현 |
 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-3.py) | 구현 |
-
+[자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
