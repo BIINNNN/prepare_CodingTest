@@ -23,7 +23,7 @@
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS | Level 3 |
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS | Level 3 |
 [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42579.py) | 해시 | Level 3 |
-[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py) | 문자열, 구현 | Level 2 |
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-3.py) | 문자열, 구현 | Level 2 |
 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42888.py) | 문자열, 구현 | Level 2 |
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/62048.py) | 단순 아이디어, 수학 | Level 2 |
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py) | 문자열, 구현 | Level 2 |
@@ -58,6 +58,9 @@
 왕실의 나이트 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-3.py) | 구현 |
 게임 개발 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-4.py) | 구현 |
 [럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
+문자열 재정렬 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-2.py) | 구현 |
+[문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-3.py) | 구현 |
+
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -104,6 +107,7 @@
 [카잉 달력](https://www.acmicpc.net/problem/6064) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6064.py) | 브루트 포스 |
 [문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 [럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
+
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
