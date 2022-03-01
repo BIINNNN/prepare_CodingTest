@@ -1,7 +1,4 @@
 # 뱀
-from os import DirEntry
-
-
 n = int(input()) # 보드 크기
 k = int(input()) # 사과 개수
 board = [[0]*(n+1) for _ in range(n+1)] # 맵 정보를 입력 받을 2차원 리스트 (1행 1열부터 시작하기 때문에 1부터 시작해서 N까지의 맵을 만들기 위해 n+1의 리스트 만들어 줌)
