@@ -36,6 +36,7 @@
 [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/stack%2C%20queue/42587.py) | 스택, 큐 | Level 2 |
 [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 | Level 4 |
 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 | Level 3 |
+[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 | Level 3 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -63,6 +64,7 @@
 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-3.py) | 구현 |
 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 |
 [뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-5.py) | 구현 |
+[기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
