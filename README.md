@@ -37,6 +37,7 @@
 [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 | Level 4 |
 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 | Level 3 |
 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 | Level 3 |
+[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 | Level 3 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -66,6 +67,7 @@
 [뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-5.py) | 구현 |
 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 |
 [치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-7.py) | 구현 |
+[외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
