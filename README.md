@@ -69,6 +69,7 @@
 [치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-7.py) | 구현 |
 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 |
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | BFS |
+[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | DFS, 부르트포스 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -76,7 +77,7 @@
 [구슬탈출 2](https://www.acmicpc.net/problem/13460) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/13460.py) | BFS |
 [뱀](https://www.acmicpc.net/problem/3190) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/3190.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-5.py) | 구현 |
 [치킨배달](https://www.acmicpc.net/problem/15686) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/15686.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-7.py)| 구현 |
-[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py) | DFS, 부르트포스 |
+[연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | DFS, 부르트포스 |
 [DFS와 BFS](https://www.acmicpc.net/problem/1260) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1260.py) | DFS, BFS |
 [소수 찾기](https://www.acmicpc.net/problem/1978) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1978.py) | 수학, 구현 |
 [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2960.py) | 수학 |
