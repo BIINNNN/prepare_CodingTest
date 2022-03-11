@@ -70,6 +70,7 @@
 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 |
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | BFS |
 [연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-2.py) | DFS, 부르트포스 |
+[경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -116,7 +117,7 @@
 [카잉 달력](https://www.acmicpc.net/problem/6064) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/6064.py) | 브루트 포스 |
 [문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 [럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
-
+[경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
