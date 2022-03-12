@@ -26,7 +26,7 @@
 [문자열 압축](https://programmers.co.kr/learn/courses/30/lessons/60057) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60057.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-3.py) | 문자열, 구현 | Level 2 |
 [오픈채팅방](https://programmers.co.kr/learn/courses/30/lessons/42888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42888.py) | 문자열, 구현 | Level 2 |
 [멀쩡한 사각형](https://programmers.co.kr/learn/courses/30/lessons/62048) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/62048.py) | 단순 아이디어, 수학 | Level 2 |
-[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py) | 문자열, 구현 | Level 2 |
+[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-4.py) | 문자열, 구현 / DFS | Level 2 |
 [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42626.py) | 힙 | Level 2 |
 [124 나라의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12899) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12899.py) | 규칙 찾기 | Level 2 |
 [짝지어 제거하기](https://programmers.co.kr/learn/courses/30/lessons/12973) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/12973.py) | 스택 | Level 2 |
@@ -71,6 +71,7 @@
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | BFS |
 [연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-2.py) | DFS, 부르트포스 |
 [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
+[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-4.py) | 문자열, 구현 / DFS | Level 2 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
