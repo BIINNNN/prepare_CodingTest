@@ -71,7 +71,8 @@
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | BFS |
 [연구소](https://www.acmicpc.net/problem/14502) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/14502.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-2.py) | DFS, 부르트포스 |
 [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
-[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-4.py) | 문자열, 구현 / DFS | Level 2 |
+[괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-4.py) | 문자열, 구현 / DFS |
+[연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -119,6 +120,7 @@
 [문자열 뒤집기](https://www.acmicpc.net/problem/1439) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1439.py) | 그리디 |
 [럭키 스트레이트](https://www.acmicpc.net/problem/18406) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-1.py) | 구현 |
 [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
+[연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
