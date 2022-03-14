@@ -74,6 +74,8 @@
 [괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/60058.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-4.py) | 문자열, 구현 / DFS |
 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
+[인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
+
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -123,7 +125,7 @@
 [경쟁적 전염](https://www.acmicpc.net/problem/18405) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-3.py) | BFS |
 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
-
+[인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
