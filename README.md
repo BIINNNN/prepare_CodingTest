@@ -38,6 +38,7 @@
 [자물쇠와 열쇠](https://programmers.co.kr/learn/courses/30/lessons/60059) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-4.py) | 구현 | Level 3 |
 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 | Level 3 |
 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 | Level 3 |
+[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-8.py) | BFS | Level 3 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -75,7 +76,7 @@
 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
-
+[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-8.py) | BFS |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
