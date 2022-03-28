@@ -39,7 +39,7 @@
 [기둥과 보 설치](https://programmers.co.kr/learn/courses/30/lessons/60061) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-6.py) | 구현 | Level 3 |
 [외벽 점검](https://programmers.co.kr/learn/courses/30/lessons/60062) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch12-8.py) | 구현 | Level 3 |
 [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-8.py) | BFS | Level 3 |
-[블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/64065.py) | 문자열 | Level 2 |
+[튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/64065.py) | 문자열 | Level 2 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
