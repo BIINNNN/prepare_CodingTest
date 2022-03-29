@@ -130,6 +130,7 @@
 [연산자 끼워 넣기](https://www.acmicpc.net/problem/14888) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-5.py) | DFS |
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
+[국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
