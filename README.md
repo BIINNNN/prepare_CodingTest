@@ -116,7 +116,7 @@
 [날짜 계산](https://www.acmicpc.net/problem/1476) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1476.py) | 구현 |
 [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18352.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-1.py) | BFS |
 [단어 수학](https://www.acmicpc.net/problem/1339) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/1339.py) | 그리디 |
-[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18310.py) | 그리디 |
+[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/18310.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 그리디, 정렬 |
 [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/2609.py) | 수학 |
 [1](https://www.acmicpc.net/problem/4375) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/4375.py) | 수학 |
 [약수의 합 2](https://www.acmicpc.net/problem/17427) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/BOJ/17427.py) | 수학 |
@@ -134,7 +134,6 @@
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
-[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
