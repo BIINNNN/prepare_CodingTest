@@ -83,6 +83,8 @@
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
 [안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 |
+[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리다, 정렬, 우선순위 큐 |
+
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -134,6 +136,7 @@
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
+[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리다, 정렬, 우선순위 큐 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
