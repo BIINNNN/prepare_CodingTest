@@ -41,6 +41,7 @@
 [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-8.py) | BFS | Level 3 |
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/64065.py) | 문자열 | Level 2 |
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42584.py) | 문자열 | Level 2 |
+[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 | Level 1 |
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -80,6 +81,8 @@
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [블록 이동하기](https://programmers.co.kr/learn/courses/30/lessons/60063) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-8.py) | BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
+[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
+[실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -131,6 +134,7 @@
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
+[안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
