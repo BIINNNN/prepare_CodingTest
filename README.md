@@ -83,7 +83,7 @@
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
 [안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 |
-[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리다, 정렬, 우선순위 큐 |
+[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리, 정렬, 우선순위 큐 |
 부품 찾기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch07-1.py) | 이진 탐색, 정렬 |
 떡볶이 떡 만들기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch07-2.py) | 이진 탐색 |
 정렬된 배열에서<br/>특정 수의 개수 구하기| [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-1.py) | 이진 탐색 |
@@ -139,7 +139,7 @@
 [감시 피하기](https://www.acmicpc.net/problem/18428) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-6.py) | 조합 (DFS/BFS) |
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
-[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리다, 정렬, 우선순위 큐 |
+[카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리디, 정렬, 우선순위 큐 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
