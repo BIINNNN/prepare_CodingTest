@@ -22,3 +22,38 @@ for order in orders:
         print('yes', end=' ')
     else:
         print('no', end=' ')
+        
+'''
+# 계수 정렬을 이용한 풀이
+
+n = int(input())
+arr = [0]*1000001
+
+for i in input().split():
+    arr[int(i)] = 1
+    
+m = int(input())
+orders = list(map(int, input().split()))
+
+for order in orders:
+    if arr[order] == 1:
+        print('yes', end = ' ')
+    else:
+        print('no', end = ' ')
+'''
+
+'''
+# 집합 자료형(set)을 이용한 풀이
+
+n = int(input())
+arr = set(map(int, input().split()))
+
+m = int(input())
+orders = list(map(int, input().split()))
+
+for order in orders:
+    if order in arr:
+        print('yes', end=' ')
+    else:
+        print('no', end=' ')
+'''
