@@ -84,7 +84,7 @@
 [안테나](https://www.acmicpc.net/problem/18310) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-2.py) | 정렬 |
 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 |
 [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리다, 정렬, 우선순위 큐 |
-
+부품 찾기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch07-1.py) | 이진 탐색, 정렬 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
