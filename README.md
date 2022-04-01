@@ -88,6 +88,7 @@
 떡볶이 떡 만들기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch07-2.py) | 이진 탐색 |
 정렬된 배열에서<br/>특정 수의 개수 구하기| [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-1.py) | 이진 탐색 |
 고정점 찾기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-2.py) | 이진 탐색 |
+[공유기 설치](https://www.acmicpc.net/problem/2110) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-3.py) | 이진 탐색 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
@@ -140,6 +141,7 @@
 [인구 이동](https://www.acmicpc.net/problem/16234) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch13-7.py) | DFS/BFS |
 [국영수](https://www.acmicpc.net/problem/10825) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-1.py) | 정렬 |
 [카드 정렬하기](https://www.acmicpc.net/problem/1715) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-4.py) | 그리디, 정렬, 우선순위 큐 |
+[공유기 설치](https://www.acmicpc.net/problem/2110) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-3.py) | 이진 탐색 |
 
 ### SWEA
 | 문제 | 코드 | 구분 | 난이도 |
