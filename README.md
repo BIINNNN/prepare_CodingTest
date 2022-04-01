@@ -57,7 +57,7 @@
 음료수 얼려 먹기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch05-1.py) | DFS, BFS |
 미로 탈출 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/dfs%2C%20bfs/ch05-2.py) | DFS, BFS |
 위에서 아래로 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-10.py) | 정렬 |
-성적이 낮은 순서로 학생 출력하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-11.py) | 정렬 |
+성적이 낮은 순서로<br/>학생 출력하기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-11.py) | 정렬 |
 두 배열의 원소 교체 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/pfct_6-12.py) | 정렬 |
 [무지의 먹방 라이브](https://programmers.co.kr/learn/courses/30/lessons/42891) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/greedy/ch11-6.py) | 그리디 |
 상하좌우 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/implementation/ch04-1.py) | 구현 |
