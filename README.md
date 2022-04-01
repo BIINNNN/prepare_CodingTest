@@ -42,6 +42,7 @@
 [튜플](https://programmers.co.kr/learn/courses/30/lessons/64065) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/64065.py) | 문자열 | Level 2 |
 [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42584.py) | 문자열 | Level 2 |
 [실패율](https://programmers.co.kr/learn/courses/30/lessons/42889) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/sort/ch14-3.py) | 정렬 | Level 1 |
+[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-4.py) | 이진 탐색 | Level 4
 
 ### 이코테(python for coding test)
 | 문제 | 코드 | 구분 |
@@ -89,6 +90,7 @@
 정렬된 배열에서<br/>특정 수의 개수 구하기| [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-1.py) | 이진 탐색 |
 고정점 찾기 | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-2.py) | 이진 탐색 |
 [공유기 설치](https://www.acmicpc.net/problem/2110) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-3.py) | 이진 탐색 |
+[가사 검색](https://programmers.co.kr/learn/courses/30/lessons/60060) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/python-for-codingtest/binary%20search/ch15-4.py) | 이진 탐색 |
 
 ### 백준(BOJ)
 | 문제 | 코드 | 구분 |
