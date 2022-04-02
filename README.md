@@ -18,7 +18,7 @@
 [가장 큰 수](https://programmers.co.kr/learn/courses/30/lessons/42746) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/42746.py) | 정렬 | Level 2 |
 [H-Index](https://programmers.co.kr/learn/courses/30/lessons/42747) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%EC%A0%95%EB%A0%AC/42747.py) | 정렬 | Level 2 |
 [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42577.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42577.py) | 해시 | Level 2 |
-[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42578.py) | 해시 | Level 2 |
+[위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/%ED%95%B4%EC%8B%9C/42578.py), [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/Programmers/42578.py) | 해시 | Level 2 |
 [네트워크](https://programmers.co.kr/learn/courses/30/lessons/43162) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43162.py) | DFS, BFS | Level 3 |
 [단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43163.py) | DFS, BFS | Level 3 |
 [여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164) | [py](https://github.com/BIINNNN/prepare_CodingTest/blob/main/Python3/DFS%2C%20BFS/43164.py) | DFS, BFS | Level 3 |
